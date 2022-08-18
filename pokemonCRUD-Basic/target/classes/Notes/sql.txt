@@ -1,0 +1,4 @@
+-- insert into pokemon table 
+
+INSERT into pokemon (id,pokemon_name,generation_number,level)
+VALUES(1,'pika',1,23);
